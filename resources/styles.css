@@ -223,6 +223,7 @@ ul{
 }#food .style5 {
     background-image: url('../resources/images/pizza.jpg');
 }
+/**/
 .food-galery{
     display: flex;
     height: 20rem;
