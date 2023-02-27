@@ -145,19 +145,19 @@ ul{
 
 /* places */
 #places .places1{
-    background-image: url('https://images.unsplash.com/photo-1620475655006-0f0c6a10a221?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80')
+    background-image: url('../resources/images/mediolan.jpg');
 }  
 #places .places2 {
-    background-image: url('https://github.com/aleksandrazdunczyk/italia.github.io/blob/main/resources/images/positano.jpg')
+    background-image: url('../resources/images/positano.jpg');
 }    
 #places .places3 {
-    background-image: url('https://github.com/aleksandrazdunczyk/italia.github.io/blob/main/resources/images/rome.jpg')
+    background-image: url('../resources/images/rome.jpg');
 }    
 #places .places4 {
-    background-image: url('https://github.com/aleksandrazdunczyk/italia.github.io/blob/main/resources/images/sardinia.jpg')
+    background-image: url('../resources/images/sardinia.jpg');
 } 
 #places .places5 {
-    background-image: url('https://github.com/aleksandrazdunczyk/italia.github.io/blob/main/resources/images/venice.jpg')
+    background-image: url('../resources/images/venice.jpg');
 } 
 .places-galery{
     display: flex;
@@ -212,16 +212,16 @@ ul{
     margin: 2% auto;
 }
 #food .style1 {
-    background-image: url('https://github.com/aleksandrazdunczyk/italia.github.io/blob/main/resources/images/lemone.jpg')
+    background-image: url('../resources/images/lemone.jpg');
 }
 #food .style2 {
-    background-image: url('https://github.com/aleksandrazdunczyk/italia.github.io/blob/main/resources/images/ice-cream.jpg')
+    background-image: url('../resources/images/ice-cream.jpg');
 }#food .style3 {
-    background-image: url('https://github.com/aleksandrazdunczyk/italia.github.io/blob/main/resources/images/olive.jpg')
+    background-image: url('../resources/images/olive.jpg');
 }#food .style4 {
-    background-image: url('https://github.com/aleksandrazdunczyk/italia.github.io/blob/main/resources/images/spaghetti.jpg')
+    background-image: url('../resources/images/spaghetti.jpg');
 }#food .style5 {
-    background-image: url('https://github.com/aleksandrazdunczyk/italia.github.io/blob/main/resources/images/pizza.jpg')
+    background-image: url('../resources/images/pizza.jpg');
 }
 .food-galery{
     display: flex;
